@@ -1,10 +1,10 @@
 cloud:
   aws:
     region:
-      static: ap-south-1
+      static:
       auto: false
     credentials:
-      access-key: AKIA2PG54BRQISHSL6WW
-      secret-key: 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
+      access-key: 
+      secret-key:
     end-point:
-      uri:  https://sqs.ap-south-1.amazonaws.com/719872330848/uttara-queue
+      uri:  
